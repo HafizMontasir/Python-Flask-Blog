@@ -1,0 +1,22 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com/mishan.hafiz",
+    "ln_url": "https://www.linkedin.com/in/hafizmontasir/",
+    "gh_url": "https://github.com/HafizMontasir",
+    "blog_name": "StartToBlog",
+    "tag_line": "Way to Express Ideas, Logic and Article",
+    "gmail-user": "hafizmontasir.facebook@gmail.com",
+    "gmail-password": "isrhrhritpsphvug",
+    "about_text": "Hi My name is MD Hafiz Montasir Mishan and I am a Software Engineer",
+    "no_of_posts": 3,
+    "login_image": "login.jpg",
+    "admin_user": "hafiz",
+    "admin_password": "admin",
+    "upload_location": "C:\\Users\\misha\\PycharmProjects\\Flask-tut\\static\\img"
+
+
+  }
+}
